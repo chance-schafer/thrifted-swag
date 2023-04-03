@@ -1,0 +1,22 @@
+// Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
+
+// Dark Theme Style Variables
+$roboto: "Roboto", sans-serif;
+$dark-surface-container-high: #36343b;
+$dark-surface-container-low: #1d1b20;
+$dark-outline: #938f99;
+$dark-on-primary: #381e72;
+$dark-on-surface-variant: #381e72;
+$dark-outline-variant: #49454f;
+$dark-surface: #141218;
+$dark-primary: #d0bcff;
+$dark-on-surface: #e6e0e9;
+
+// Screen Width Variables
+$breakpoints: (
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+);
